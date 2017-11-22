@@ -32,9 +32,9 @@ INSTALACION
 -Importar el Proyecto
 
 EJECTAR PRUBAS RAPIDAS:
--Importar el proyecto
--Presionar el boton Run
--Escanear un codigo QR
+-Descargar el archivo .apk  en sus telefonos
+-Abrirlo e instalarlo
+Probarlo con las impresiones generadas en la pagina web
 
 EJECUTAR PRUEBAS MANUALES:
 
